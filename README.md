@@ -148,8 +148,8 @@ x_single_prediction = np.argmax(
     model.predict(img_28_gray_inverted_scaled.reshape(1,28,28,1)),
      axis=1)
 print(x_single_prediction)
-print("ALDRIN LIJO")
-print("REG NO:212222240007")
+print("R.THIVAKAR")
+print("REG NO:212222240109")
 ```
 ## OUTPUT
 
